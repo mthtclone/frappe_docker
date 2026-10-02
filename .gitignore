@@ -32,3 +32,13 @@ node_modules
 # VitePress
 **/.vitepress/dist
 **/.vitepress/cache
+
+# Local production environment and generated configuration
+.env-production
+.env.production
+
+# Generated production Compose configuration
+docker-compose.production.yaml
+
+# Temporary editor files
+*.swp
