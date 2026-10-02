@@ -1,5 +1,3 @@
-# ERPNext Deployment
-
 This repository is a customized deployment setup based on the official Frappe Docker project.
 
 It is used to deploy **ERPNext** in a self-hosted environment with:
